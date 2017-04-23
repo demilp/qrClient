@@ -1,0 +1,12 @@
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\QrClient.exe.config
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\QrClient.exe
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\QrClient.pdb
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\zxing.dll
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\zxing.presentation.dll
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\zxing.pdb
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\zxing.xml
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\zxing.presentation.pdb
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\bin\Debug\zxing.presentation.xml
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\obj\Debug\QrClient.csprojResolveAssemblyReference.cache
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\obj\Debug\QrClient.exe
+c:\users\demian\documents\visual studio 2015\Projects\QrClient\QrClient\obj\Debug\QrClient.pdb
